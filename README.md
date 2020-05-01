@@ -6,7 +6,7 @@ Here i have used ICICI bank as an example but one can create an OCR for any bank
 I have used open source library 'Tabula' to read the data from pdf. 
 Proper and sufficient comments are added for the reader to understand the code and logic.
 Task:-
-1)Pull out all the transactions from bank statements -> 
-2)Put it a dataframe -> 
-3)Clean the data so we can play around ->
+1)Pull out all the transactions from bank statements. -> 
+2)Put it a dataframe. -> 
+3)Clean the data so we can play around with data. ->
 4)Categorize into credit and debit.
